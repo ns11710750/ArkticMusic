@@ -1,0 +1,21 @@
+{
+"name": "msc1",
+  "version": "1.0.0",
+  "description": "This is a arktic Bot",
+  "token": "NjE1OTM1OTI1NTA3MTk0OTI0.XWVZNQ.-0x0fXN7VB-FtXsf53hRd8KzHZQ"
+  "main": "ArkticMusic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarge",
+  "license": "ISC",
+  "prefix": "!",
+    "main": "arktic-bot.js",
+    "author": "Arktic-Sarge",
+    "scripts": {
+        "start": "node bot1.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
